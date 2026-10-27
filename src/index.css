@@ -1,0 +1,14 @@
+
+html {
+  min-width: 320px;
+  background: #f5f7fb;
+}
+
+body {
+  margin: 0;
+}
+
+button, input {
+  font-family: inherit;
+}
+
